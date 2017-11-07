@@ -1,6 +1,8 @@
 Rendered site at https://stephenturner.github.io/gi2017software
 
-Code from https://github.com/derekeder/csv-to-html-table
+Data collected by Sean Davis: https://gist.github.com/seandavi/0b20c492527b234912ba2350a05cb10c
+
+Code to generate site from https://github.com/derekeder/csv-to-html-table
 
 ### Usage
 
